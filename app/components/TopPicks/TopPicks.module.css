@@ -1,0 +1,12 @@
+.topPicks {
+  margin-bottom: 30px;
+}
+.divSwiper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 16px;
+}
+.headTitle {
+  margin-bottom: 20px;
+}
